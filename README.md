@@ -1,4 +1,3 @@
-// Tugas-C
 //Muhammad Syawal Bangun
 
 #include <stdio.h>
