@@ -1,4 +1,3 @@
-//Muhammad Syawal Bangun
 
 #include <stdio.h>
 
